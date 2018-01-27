@@ -1,0 +1,10 @@
+d:\GIT CSharp\HW1\bin\Debug\netcoreapp2.0\HW1.deps.json
+d:\GIT CSharp\HW1\bin\Debug\netcoreapp2.0\HW1.runtimeconfig.json
+d:\GIT CSharp\HW1\bin\Debug\netcoreapp2.0\HW1.runtimeconfig.dev.json
+d:\GIT CSharp\HW1\bin\Debug\netcoreapp2.0\HW1.dll
+d:\GIT CSharp\HW1\bin\Debug\netcoreapp2.0\HW1.pdb
+d:\GIT CSharp\HW1\obj\Debug\netcoreapp2.0\HW1.csproj.CoreCompileInputs.cache
+d:\GIT CSharp\HW1\obj\Debug\netcoreapp2.0\HW1.AssemblyInfoInputs.cache
+d:\GIT CSharp\HW1\obj\Debug\netcoreapp2.0\HW1.AssemblyInfo.cs
+d:\GIT CSharp\HW1\obj\Debug\netcoreapp2.0\HW1.dll
+d:\GIT CSharp\HW1\obj\Debug\netcoreapp2.0\HW1.pdb
